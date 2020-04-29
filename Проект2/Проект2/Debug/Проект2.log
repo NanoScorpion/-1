@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\ООП\Проект2\Проект2\Source.cpp(45,28): warning C4091:: пропускается слева от "std::_List_const_iterator<std::_List_val<std::_List_simple_types<_Ty>>>", когда ни одна переменная не объявлена
+          with
+          [
+              _Ty=Book
+          ]
+  Проект2.vcxproj -> C:\Users\Admin\Desktop\ООП\Проект2\Debug\Проект2.exe

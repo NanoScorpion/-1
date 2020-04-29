@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(46,1): warning C4091:: пропускается слева от "std::_List_const_iterator<std::_List_val<std::_List_simple_types<_Ty>>>", когда ни одна переменная не объявлена
+          with
+          [
+              _Ty=Library
+          ]
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(158,9): warning C4101: tmp2: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(133,9): warning C4101: tmp1: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(312,6): warning C4930: Library deleteBook(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(316,6): warning C4930: Library EdeitElement(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(261,6): warning C4930: Information info(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(257,6): warning C4930: Library Book(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(270,7): warning C4930: Library openAllBook(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(303,7): warning C4930: Library openBook(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\Admin\Desktop\ООП\Проект 3\Проект 3\Source.cpp(277,8): warning C4930: Library show(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  Проект 3.vcxproj -> C:\Users\Admin\Desktop\ООП\Проект 3\Debug\Проект 3.exe
